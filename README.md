@@ -1,4 +1,4 @@
-# non-determinism-in-tests
+# Non-determinism in tests: Let Random Failures Challenge Your Assumptions
 Exploring non-determinism in testing as a guiding principle to design effective and robust test specifications.
 
 ## License ##
